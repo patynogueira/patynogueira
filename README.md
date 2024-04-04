@@ -1,9 +1,9 @@
-- 👋 Olá, me chamo @patynogueira
+- 👋 Olá, me chamo @patynogueir@
 - 👀 Estou interessada em aprender muito sobre programação
 - 🌱 Atualmente estou aprendendo Java com Spring Boot
 - 💞️ Estou procurando atualmente colaboração
 - 📫 Como me ajudar meu Git é
-- 😄 patynogueira
+- 😄 patynogueir@
 - ⚡ conto com vocês
 
 <!---
